@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<packageSources>
+		<clear />
+		<add key="github" value="https://nuget.pkg.github.com/Vernizze/index.json" />
+	</packageSources>
+	<packageSourceCredentials>
+		<github>
+			<add key="Username" value="Vernizze" />
+			<add key="ClearTextPassword" value="b214fd772a77ba4e20a194769abc684321b96bb8" />
+		</github>
+	</packageSourceCredentials>
+</configuration>
