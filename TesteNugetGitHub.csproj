@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>TesteNugetGitHub</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Vrnz2</Authors>
+    <Company>Vrnz2 Systems</Company>
+    <PackageDescription>Teste de Nuget - GitHub</PackageDescription>
+    <RepositoryUrl>https://github.com/Vernizze/TesteNugetGitHub</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

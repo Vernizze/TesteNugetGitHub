@@ -7,7 +7,7 @@
 	<packageSourceCredentials>
 		<github>
 			<add key="Username" value="Vernizze" />
-			<add key="ClearTextPassword" value="b214fd772a77ba4e20a194769abc684321b96bb8" />
+			<add key="ClearTextPassword" value="xxx" />
 		</github>
 	</packageSourceCredentials>
 </configuration>
